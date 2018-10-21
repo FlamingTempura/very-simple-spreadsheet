@@ -1,0 +1,13 @@
+{
+	"cols": 20,
+	"rows": 20,
+	"cells": {
+		"A1": { "value": 1, "style": { "background-color": "red" } },
+		"A2": { "value": 4 },
+		"A3": { "value": "=SUM(A1,A2)" },
+		"A4": { "value": "=A6" },
+		"A5": { "value": "\"Total\"", "style": { "font-weight": "bold" } },
+		"A6": { "value": "=A3-1" },
+		"C4": { "value": "\"Hello\"" }
+	}
+}
